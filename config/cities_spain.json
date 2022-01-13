@@ -1,0 +1,120 @@
+[
+{
+    "name": "Barcelona",
+    "country": "Spain",
+    "bb": [
+      [
+        2.0524977,
+        41.3170353
+      ],
+      [
+        2.2283555,
+        41.4679135
+      ]
+    ],
+    "key": "barcelona__spain",
+    "area": 246
+  },
+
+{
+    "name": "Madrid",
+    "country": "Spain",
+    "bb": [
+      [
+        -3.8889539,
+        40.3119774
+      ],
+      [
+        -3.5179163,
+        40.6437293
+      ]
+    ],
+    "key": "madrid__spain",
+    "area": 1161
+  },
+
+{
+    "name": "Malaga",
+    "country": "Spain",
+    "bb": [
+      [
+        -4.5878887,
+        36.6345688
+      ],
+      [
+        -4.2604897,
+        36.8940412
+      ]
+    ],
+    "key": "malaga__spain",
+    "area": 843
+  },
+
+{
+    "name": "Seville",
+    "country": "Spain",
+    "bb": [
+      [
+        -6.0329183,
+        37.3002036
+      ],
+      [
+        -5.8191571,
+        37.4529579
+      ]
+    ],
+    "key": "seville__spain",
+    "area": 321
+  },
+
+{
+    "name": "Tenerife",
+    "country": "Spain",
+    "key": "tenerife__spain",
+    "bb": [
+      [
+        -16.9259266,
+        27.9980751
+      ],
+      [
+        -16.1193833,
+        28.6053951
+      ]
+    ],
+    "area": 5350
+  },
+
+{
+    "name": "Valencia",
+    "country": "Spain",
+    "bb": [
+      [
+        -0.4325512,
+        39.2784496
+      ],
+      [
+        -0.2725205,
+        39.5666089
+      ]
+    ],
+    "key": "valencia__spain",
+    "area": 441
+  },
+
+{
+    "name": "Zaragoza",
+    "country": "Spain",
+    "bb": [
+      [
+        -1.1737289,
+        41.4516625
+      ],
+      [
+        -0.6803895,
+        41.9314873
+      ]
+    ],
+    "key": "zaragoza__spain",
+    "area": 2195
+  }
+]
